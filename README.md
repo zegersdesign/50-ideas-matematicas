@@ -6,7 +6,7 @@ Convierte las **50 grandes ideas** del libro en una base de conocimiento consult
 
 ## Instalar en cualquier host de Agent Skills
 ```
-npx skills add https://github.com/<owner>/50-ideas-matematicas --skill 50-ideas-matematicas
+npx skills add https://github.com/zegersdesign/50-ideas-matematicas --skill 50-ideas-matematicas
 ```
 
 ## Contenido
